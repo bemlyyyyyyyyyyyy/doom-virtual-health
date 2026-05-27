@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"DVH API Help:","color":"red"},"\n1. create {with:{max_health:int, health:int, on_death:cmd}}","\n2. add_health {points:int}","\n3. set_health {health:int}","\n4. set_max_health {max_health:int}","\n5. add_max_health {points:int}"]
